@@ -1,0 +1,2 @@
+# webextension-MaximizeDetachedTab
+分離したタブウィンドウを最大化するwebextension
