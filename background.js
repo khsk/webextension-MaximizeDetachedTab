@@ -31,5 +31,5 @@ chrome.tabs.onDetached.addListener(tabId => {
   
 });
 
-// chromeがmanifestでのsvn設定に対応していないため初期化(Firefoxには不要)
+// chromeがmanifestでのsvg設定に対応していないため初期化(Firefoxには不要)
 browser.browserAction.setIcon({path: 'icon/switch.svg'});
